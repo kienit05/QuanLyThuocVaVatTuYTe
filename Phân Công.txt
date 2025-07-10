@@ -1,0 +1,34 @@
+Thạc Nguyễn Đình Vũ - 21010618
+
+Quản lý build hệ thống qua Maven: xây dựng pom.xml, khai báo dependency (JFreeChart, JAXB...).
+
+Đảm bảo dữ liệu được chuẩn hóa (xử lý ngày sản xuất, hạn sử dụng hợp lệ), xử lý điều kiện ngoại lệ.
+
+
+Đỗ Trung Kiên - 23010516
+
+
+
+Xây dựng giao diện người dùng bằng Apache NetBeans.
+
+Thiết kế và lập trình các form chức năng: thêm thuốc/vật tư, sửa, xóa, tìm kiếm, thống kê.
+
+Tích hợp biểu đồ thống kê bằng JFreeChart (PieChart theo nguồn gốc, BarChart tồn kho).
+
+Viết báo cáo tổng hợp cho nhóm, viết README hướng dẫn sử dụng phần mềm, Đóng gói sản phẩm: build file jar, chuẩn bị file nộp, tạo link Git, thực hiện nộp bài..
+
+
+Trần Văn Đức - 22010159
+
+
+Xử lý logic nghiệp vụ: thống kê, lọc theo điều kiện (nguồn gốc, giá, hạn dùng).
+
+Xây dựng các lớp Java xử lý dữ liệu: PharMed, PharMedDAO, các phương thức nhập, xuất, tìm kiếm, sắp xếp, tính toán tồn kho, cảnh báo hạn dùng.
+
+Kiểm thử hệ thống: viết các test case cho chức năng thêm, xóa, sửa, tìm kiếm, thống kê.
+
+Tài Khoản và Mật Khẩu đăng nhập BTL: 
+tk: admin
+mk: admin
+
+bài này được bọn em dùng và sử dụng jdk 23 và netbeans 25
