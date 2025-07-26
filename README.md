@@ -19,3 +19,7 @@ Thống kê: Cung cấp các biểu đồ trực quan để thống kê và phâ
 Biểu đồ tròn: Thể hiện tỉ lệ của các loại thuốc trong kho.
 Biểu đồ cột: Hiển thị số lượng các mặt hàng thuốc theo tầm giá, giúp người dùng hiểu rõ hơn về phân phối giá cả trong kho.
 Ứng dụng này không chỉ giúp quản lý hiệu quả hàng tồn kho mà còn cung cấp thông tin quan trọng giúp đưa ra các quyết định kinh doanh và chiến lược mua sắm hợp lý cho các tổ chức y tế.
+
+Tài Khoản và Mật Khẩu đăng nhập BTL: 
+tk: admin
+mk: admin
