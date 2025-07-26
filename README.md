@@ -23,3 +23,6 @@ Biểu đồ cột: Hiển thị số lượng các mặt hàng thuốc theo t�
 Tài Khoản và Mật Khẩu đăng nhập BTL: 
 tk: admin
 mk: admin
+
+clone git này về sau đó chạy "Run" trên netbeans bản mới nhất nhập đúng tài khoản mật khẩu và thực hiện các thao tác
+
